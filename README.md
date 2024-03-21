@@ -1,4 +1,4 @@
-# 
+# Run as a development environment.
 
 ## Requirements
 
